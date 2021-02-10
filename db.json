@@ -1,0 +1,21 @@
+{
+    "pokemon": [
+        {
+            "id":1,
+            "nom":"Ouisticram",
+            "type":"Feu"
+        },
+        {
+            "id":2,
+            "nom":"Ptera",
+            "type":"Dragon"
+        }
+    ],
+    "dresseur": [
+        {
+            "id": 1,
+            "nom": "Brice",
+            "age": "19"
+        }
+    ]
+}
